@@ -1,0 +1,2 @@
+print("meu primento comando")
+
